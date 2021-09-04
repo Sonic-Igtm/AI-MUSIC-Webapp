@@ -1,0 +1,24 @@
+.heading{
+    margin-top:0px;
+    border: 4px outset darkgoldenrod;
+    background-color: goldenrod;
+    border-radius: 15px;
+    width:100%;
+    font-family: 'Permanent Marker', cursive;
+}
+body{
+    background-size: cover;  
+}
+.div_song{
+    float: center;
+    }
+    .div_song_img{
+        width:250px;
+        border-radius: 100px;
+    }
+    
+    #song{
+        font-size: 25px;
+        margin: 20px;
+        font-family: 'Permanent Marker', cursive;
+    }
